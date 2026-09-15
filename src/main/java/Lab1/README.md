@@ -17,12 +17,12 @@ This Lab requires us to take 3 screenshots in Intellij IDEA, that is
 **a) Spanning Tree**
 
 
-![Directory.png](Screenshots/Directory.png)
+![Directory.png](../../../../Screenshots/Directory.png)
 
 ---
 **b) Editor View**
-![EditorView.png](Screenshots/EditorView.png)
+![EditorView.png](../../../../Screenshots/EditorView.png)
 
 ---
 c) **Git Log**
-![GitLog.png](Screenshots/GitLog.png)
+![GitLog.png](../../../../Screenshots/GitLog.png)
