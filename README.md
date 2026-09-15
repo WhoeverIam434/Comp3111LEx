@@ -15,6 +15,8 @@ This Lab requires us to take 3 screenshots in Intellij IDEA, that is
 
 ---
 **a) Spanning Tree**
+
+
 ![Directory.png](Screenshots/Directory.png)
 
 ---
